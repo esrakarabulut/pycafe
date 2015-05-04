@@ -1,0 +1,10 @@
+# Introduction #
+Pycafe aims to be a simple yet powerful framework or library to do financial engineering or quantitative finance.
+
+
+# Details #
+
+Here are some links to the project
+  * PycafeConcept
+  * Useful links to QuantitativeFinance
+

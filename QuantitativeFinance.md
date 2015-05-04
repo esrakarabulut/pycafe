@@ -1,0 +1,11 @@
+# General interest website #
+
+  * Wilmott http://www.wilmott.com/
+  * Quantlib http://quantlib.org/
+
+
+
+# Python #
+
+  * python http://www.python.org/
+  * scipy & numpy http://www.scipy.org/
